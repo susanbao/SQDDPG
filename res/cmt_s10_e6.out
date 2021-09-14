@@ -100,3 +100,27 @@ Episode: 25000, Mean Reward: -3.9815, Action Loss: -0.0138, Value Loss is: 1.613
 
 The model is saved!
 
+Episode: 26000, Mean Reward: -5.0775, Action Loss: -0.0007, Value Loss is: 1.5444, Entropy: 1647.9539
+
+The model is saved!
+
+Episode: 27000, Mean Reward: -4.6645, Action Loss: -0.0145, Value Loss is: 2.5684, Entropy: 1647.6530
+
+The model is saved!
+
+Episode: 28000, Mean Reward: -4.7846, Action Loss: -0.0186, Value Loss is: 1.6198, Entropy: 1647.8595
+
+The model is saved!
+
+Episode: 29000, Mean Reward: -4.0320, Action Loss: -0.0115, Value Loss is: 1.5754, Entropy: 1647.6620
+
+The model is saved!
+
+Episode: 30000, Mean Reward: -3.8084, Action Loss: -0.0026, Value Loss is: 2.3376, Entropy: 1647.8730
+
+The model is saved!
+
+Episode: 31000, Mean Reward: -4.4854, Action Loss: -0.0079, Value Loss is: 1.3791, Entropy: 1647.8584
+
+The model is saved!
+

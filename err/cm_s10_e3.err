@@ -1,0 +1,5 @@
+nohup: ignoring input
+WARNING:tensorflow:From /home/sas20048/code/SQDDPG_baseline/utilities/logger.py:15: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+WARNING:tensorflow:From /home/sas20048/code/SQDDPG_baseline/utilities/logger.py:19: The name tf.Summary is deprecated. Please use tf.compat.v1.Summary instead.
+
