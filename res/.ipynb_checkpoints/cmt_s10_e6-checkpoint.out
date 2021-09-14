@@ -1,0 +1,98 @@
+MergeArgs(model_name='coma_fc', agent_num=3, hid_size=64, obs_size=18, continuous=False, action_dim=5, init_std=0.1, policy_lrate=0.01, value_lrate=0.01, max_steps=200, batch_size=1024, gamma=0.9, normalize_advantages=False, entr=0.01, entr_inc=0.0, action_num=5, q_func=True, train_episodes_num=100000, replay=True, replay_buffer_size=1000000.0, replay_warmup=0, cuda=True, grad_clip=True, save_model_freq=1000, target=True, target_lr=0.1, behaviour_update_freq=100, critic_update_times=10, target_update_freq=100, gumbel_softmax=False, epsilon_softmax=False, online=True, reward_record_type='episode_mean_step', shared_parameters=True)
+
+Episode: 1000, Mean Reward: -3.0204, Action Loss: 0.0014, Value Loss is: 2.3583, Entropy: 1647.1465
+
+The model is saved!
+
+Episode: 2000, Mean Reward: -3.5943, Action Loss: -0.0036, Value Loss is: 1.6997, Entropy: 1647.2565
+
+The model is saved!
+
+Episode: 3000, Mean Reward: -5.1165, Action Loss: -0.0448, Value Loss is: 1.5068, Entropy: 1647.1050
+
+The model is saved!
+
+Episode: 4000, Mean Reward: -4.1283, Action Loss: 0.0050, Value Loss is: 1.5447, Entropy: 1647.8087
+
+The model is saved!
+
+Episode: 5000, Mean Reward: -4.0648, Action Loss: 0.0164, Value Loss is: 1.3084, Entropy: 1647.4059
+
+The model is saved!
+
+Episode: 6000, Mean Reward: -3.5075, Action Loss: 0.0032, Value Loss is: 1.2942, Entropy: 1647.5797
+
+The model is saved!
+
+Episode: 7000, Mean Reward: -3.7884, Action Loss: -0.0112, Value Loss is: 1.3108, Entropy: 1647.3314
+
+The model is saved!
+
+Episode: 8000, Mean Reward: -4.7854, Action Loss: -0.0061, Value Loss is: 1.7570, Entropy: 1647.4728
+
+The model is saved!
+
+Episode: 9000, Mean Reward: -2.9670, Action Loss: -0.0005, Value Loss is: 1.2538, Entropy: 1646.8645
+
+The model is saved!
+
+Episode: 10000, Mean Reward: -3.3391, Action Loss: -0.0116, Value Loss is: 1.2557, Entropy: 1646.7568
+
+The model is saved!
+
+Episode: 11000, Mean Reward: -4.5001, Action Loss: 0.0022, Value Loss is: 1.4892, Entropy: 1647.0295
+
+The model is saved!
+
+Episode: 12000, Mean Reward: -3.0411, Action Loss: 0.0057, Value Loss is: 1.8436, Entropy: 1647.4397
+
+The model is saved!
+
+Episode: 13000, Mean Reward: -4.2449, Action Loss: 0.0050, Value Loss is: 1.6644, Entropy: 1647.7466
+
+The model is saved!
+
+Episode: 14000, Mean Reward: -4.6069, Action Loss: 0.0280, Value Loss is: 1.7731, Entropy: 1647.6367
+
+The model is saved!
+
+Episode: 15000, Mean Reward: -4.8310, Action Loss: -0.0106, Value Loss is: 1.2993, Entropy: 1647.8975
+
+The model is saved!
+
+Episode: 16000, Mean Reward: -2.9498, Action Loss: -0.0041, Value Loss is: 1.3883, Entropy: 1647.8348
+
+The model is saved!
+
+Episode: 17000, Mean Reward: -5.1256, Action Loss: -0.0265, Value Loss is: 1.6328, Entropy: 1647.9565
+
+The model is saved!
+
+Episode: 18000, Mean Reward: -5.8131, Action Loss: -0.0970, Value Loss is: 1.7841, Entropy: 1647.8625
+
+The model is saved!
+
+Episode: 19000, Mean Reward: -4.7508, Action Loss: 0.0145, Value Loss is: 1.5001, Entropy: 1647.6365
+
+The model is saved!
+
+Episode: 20000, Mean Reward: -3.4049, Action Loss: 0.0115, Value Loss is: 2.2739, Entropy: 1647.9194
+
+The model is saved!
+
+Episode: 21000, Mean Reward: -4.1822, Action Loss: 0.0209, Value Loss is: 2.0743, Entropy: 1647.9012
+
+The model is saved!
+
+Episode: 22000, Mean Reward: -4.8905, Action Loss: 0.0328, Value Loss is: 1.9782, Entropy: 1647.8597
+
+The model is saved!
+
+Episode: 23000, Mean Reward: -4.8399, Action Loss: -0.0224, Value Loss is: 1.3531, Entropy: 1647.9749
+
+The model is saved!
+
+Episode: 24000, Mean Reward: -5.2836, Action Loss: -0.0086, Value Loss is: 1.4349, Entropy: 1647.9922
+
+The model is saved!
+
